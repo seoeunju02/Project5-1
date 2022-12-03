@@ -106,6 +106,7 @@ public class BoardController {
         return "redirect:/";
     }
 
+
 //    @RequestMapping(value = "/board/deleteok/{sq}",method = RequestMethod.GET)
 //        public String deletePostOK(@PathVariable("sq") int id){
 //        if(boardDAO.delete(id)==0)
